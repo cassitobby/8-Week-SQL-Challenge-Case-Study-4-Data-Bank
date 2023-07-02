@@ -1,5 +1,6 @@
-# Case Study #4: Data Bank
-
+ <div align="center">
+  <h1><b>Case Study #4: Data Bank</b></h1>
+</div>
 
 ## A. Customer Nodes Exploration
 
