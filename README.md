@@ -25,6 +25,10 @@ This case study is all about calculating metrics, growth and helping the busines
 
 
 # Available Data
+<details>
+<summary><b></b>You can find all available data here </b></summary>
+<br>
+  
 **Table 1: Regions**
 
 ![image](https://github.com/cassitobby/SQL-challenge-Case-Study-4---Data-Bank/assets/128924056/b0358c48-4d5c-44d6-8788-4856375dd0b1)
@@ -36,6 +40,10 @@ This case study is all about calculating metrics, growth and helping the busines
 **Table 3: Customer Transactions**
 
 ![image](https://github.com/cassitobby/SQL-challenge-Case-Study-4---Data-Bank/assets/128924056/8e9a3193-81b3-44d4-9fd2-f30113335820)
+
+</details>
+
+***
 
 # Skill Demostrated 
 1. Aggregate Function
@@ -65,3 +73,4 @@ This case study is all about calculating metrics, growth and helping the busines
 3. Conduct a more detailed analysis of individual customer data to understand their specific data storage requirements and patterns. This can help tailor resource allocation and service offerings to meet the unique needs of each customer.
 
 4. Continuously evaluate and adjust resource allocation strategies based on changing data storage needs, technological advancements, and customer requirements. Regularly review and update allocation plans to ensure they align with business goals and optimize resource utilization.
+
