@@ -37,17 +37,31 @@ This case study is all about calculating metrics, growth and helping the busines
 
 ![image](https://github.com/cassitobby/SQL-challenge-Case-Study-4---Data-Bank/assets/128924056/8e9a3193-81b3-44d4-9fd2-f30113335820)
 
-
+# Skill Demostrated 
+1. Aggregate Function
+2. Window functions
+3. Common Table Expression
+4. Case When Statements
+5. Entity relationship diagrams
+6. Data problem solving techniques
+7. Data Visualization with Power BI
+8. Powerpoint presentation
 
 
 # Case study Solution
-- A. Customer Nodes Exploration
-- B. Customer Transactions
-- C. Data Allocation Challenge
-- D. Extra Challenge
-- Extension Request
-- Insight
-
-# Insight
+- [A. Customer Nodes Exploration](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/A.%20Customer%20Nodes%20Exploration.md)
+- [B. Customer Transactions](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/B.%20Customer%20Transactions.md)
+- [C. Data Allocation Challenge](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/C.%20Data%20Allocation%20Challenge.md)
+- [D. Extra Challenge](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/D.%20Extra%20Challenge.md)
+- [Extension Request](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/Extension%20Request.md)
+- [Insight & Recommendation](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/blob/main/Insight%20%26%20Recommendation.md)
 
 # Recommendation
+
+1. Determine the approach for managing customers with consistently low account balances and develop an efficient strategy for allocating data storage to them.
+
+2. Continuously monitor and analyze the data allocation trends over time to identify patterns, fluctuations, or any significant changes. This will help in understanding the evolving data storage needs and making informed decisions regarding resource allocation.
+
+3. Conduct a more detailed analysis of individual customer data to understand their specific data storage requirements and patterns. This can help tailor resource allocation and service offerings to meet the unique needs of each customer.
+
+4. Continuously evaluate and adjust resource allocation strategies based on changing data storage needs, technological advancements, and customer requirements. Regularly review and update allocation plans to ensure they align with business goals and optimize resource utilization.
