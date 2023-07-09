@@ -25,7 +25,7 @@ FROM customer_nodes;
 ### Output
 ![image](https://github.com/cassitobby/SQL-challenge-Case-Study--4-Data-Bank/assets/128924056/f4c0786a-a5c3-46c3-80ae-4e111f8164c0)
 
-There are 5 unique noes on Data Bank System
+There are 5 unique nodes on Data Bank System
 ***
 
 **2. What is the number of nodes per region?**
