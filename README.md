@@ -74,3 +74,7 @@ This case study is all about calculating metrics, growth and helping the busines
 
 4. Continuously evaluate and adjust resource allocation strategies based on changing data storage needs, technological advancements, and customer requirements. Regularly review and update allocation plans to ensure they align with business goals and optimize resource utilization.
 
+
+# Power BI Dashboard & PowerPoint Slide
+- [Power BI Dashboard](https://shorturl.at/dtVX6)
+- [PowerPoint Slide](https://onedrive.live.com/view.aspx?resid=8930EFA906C19CFA%21106&ithint=file%2Cpptx&authkey=%21AFhALcXQ5PqribM)
